@@ -8,5 +8,6 @@
   </br>
   </br>
   <a href="https://github.com/inodevs-5/Reportify_Frontend_App"><img  width="550px" src="https://user-images.githubusercontent.com/68754092/233864074-3fad7843-62d9-4151-aa8a-45df16b7d4fa.png"></a>
-  <a href="https://github.com/inodevs-5/Reportify-Frontend-Web"><img  width="620px" src="https://github.com/inodevs-5/.github/assets/68754092/a9607a15-bf61-43ae-b11b-6c8768af1712"></a>
+  <a href="https://github.com/inodevs-5/Reportify-Frontend-Web"><img  width="620px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/68754092/243190374-a9607a15-bf61-43ae-b11b-6c8768af1712.png"></a>
+
 </div>
